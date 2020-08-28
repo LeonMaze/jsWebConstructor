@@ -40,3 +40,7 @@ npm i -D html-webpack-plugin
 ```
 Create index.html file in /src
   
+Install 
+```
+npm i -D style-loader css-loader
+```
